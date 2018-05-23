@@ -1,0 +1,14 @@
+*.pyc
+*.log
+.cache
+.idea
+reports
+apitestlib/au_porn_info
+apitestlib/au_non_porn_info
+au_porn_info
+au_non_porn_info
+apitestlib/wow_porn_info
+apitestlib/wow_non_birth_info
+wow_porn_info
+wow_non_birth_info
+.DS_Store

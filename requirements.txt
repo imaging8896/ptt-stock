@@ -1,3 +1,4 @@
 requests[security]
 beautifulsoup4
+GoogleSearchKeyword
 PttWebCrawler

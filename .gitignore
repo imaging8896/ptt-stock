@@ -12,3 +12,5 @@ apitestlib/wow_non_birth_info
 wow_porn_info
 wow_non_birth_info
 .DS_Store
+venv
+venv/*

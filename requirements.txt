@@ -1,3 +1,9 @@
 lxml
 requests
 twstock
+yfinance
+certifi
+yahoo_earnings_calendar
+pandas
+html5lib
+bs4
